@@ -21,7 +21,7 @@ Pure Edited Repo .
 * Star my repository
 * Create a [Heroku](https://dashboard.heroku.com/login) Free account
 * Log in to Heroku in any browser
-* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tonmoyislam250/torrentsite) and deploy app
+* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tiktikimelbo7/qbitimoort) and deploy app
 ### Step 2 (setting Config Vars)
 * Go to deployed application in heroku
 * Switch to application settings.
