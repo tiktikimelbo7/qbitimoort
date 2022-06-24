@@ -57,7 +57,7 @@ Pure Edited Repo .
 * Use config var , key `PINGDOMAIN` and corresponding value `http://your.custom.domain.com`
 * example [image here](https://user-images.githubusercontent.com/71500526/160111418-220d1420-ac47-4c6d-8bc2-faf26457483b.jpg)
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tonmoyislam250/torrentsite)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tiktikimelbo7/qbitimoort)
 
 ## Common Errors
 * If  `This page isn’t workingIf the problem continues, contact the site owner. HTTP ERROR 401` is shown in browser change your browser url from `https://myapp.herokuapp.com` to `http://myapp.herokuapp.com/` . ie., change https to http
