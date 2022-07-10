@@ -1,2 +1,3 @@
 FROM mirrorultroid6/webui:heroku
-CMD scriptplusconf/entrypoint2.sh
+
+CMD ["bash","scriptplusconf/entrypoint2.sh"]
