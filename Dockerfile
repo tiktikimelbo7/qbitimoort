@@ -1,5 +1,5 @@
 FROM mirrorultroid6/webui:heroku
-WORKDIR /root
-RUN chmod 777 /root
+RUN chmod +x /scriptplusconf/entrypoint2.sh
+RUN chmod +x /scriptplusconf/entrypoint1.sh
 
 CMD /scriptplusconf/entrypoint2.sh
