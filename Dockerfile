@@ -1,4 +1,4 @@
 FROM mirrorultroid6/webui:heroku
-RUN cd
+WORKDIR /root
 
 CMD /scriptplusconf/entrypoint2.sh
